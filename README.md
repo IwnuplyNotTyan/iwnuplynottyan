@@ -1,1 +1,1 @@
-*like simle apps, and simple readme*
+*Keep readme simple stupid*
